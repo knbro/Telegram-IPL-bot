@@ -5,7 +5,7 @@ import configparser as cfg
 import os
 from os import environ
 
-Telegram_Token = environ['2020490054:AAE34WE8QUEv3-cy_LqNj0w0S-Xznjxbeh8']
+Telegram_Token = environ[2020490054:AAE34WE8QUEv3-cy_LqNj0w0S-Xznjxbeh8]
 
 class telegram_chatbot():
 	def __init__(self,config):
